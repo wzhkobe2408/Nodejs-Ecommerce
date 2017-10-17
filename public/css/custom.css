@@ -1,0 +1,64 @@
+.navbar{
+  border-radius: 0;
+}
+
+.navbar{
+  height: 55px;
+}
+
+footer{
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  background: #080808;
+}
+
+
+footer p{
+  line-height: 50px;
+  margin: 0;
+  color:#ffffff;
+}
+
+.mt-2{
+  margin-top: 20px;
+}
+
+
+.jumbotron{
+  margin-top: -4%;
+}
+
+.pagination{
+  margin-bottom: 80px;
+  padding-left: 15px;
+}
+
+.search-box{
+  margin-bottom: 70px;
+}
+
+.product-image{
+  width: 100%;
+}
+
+#exampleModalLabel{
+  display: inline-block;
+}
+
+#quit{
+  line-height: 34px;
+}
+
+.panel-title{
+  display: inline-block;
+  margin-left: 15px;
+  float: right;
+  margin-top: 15px;
+}
+
+.display-td{
+  display: inline-block;
+  float: left;
+}
